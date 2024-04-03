@@ -1,17 +1,20 @@
 # CSCE3550_JWKS_JL
 basic JWKS server: project3
 
-##CSCE 3550 jl1201
+## CSCE 3550 jl1201
+
 Either download or copy or fork the repository to your system.
 Open one terminal and ```cd``` into the "js" file,
 then run ```npm install``` to download all necessary 
 dependencies on your machine.
 
-##Run server
+## Run server
+
 To run the server ```cd``` into the "js" directory and run ```npm start```.
 To quit the program run ```CONTROL+C```.
 
-##Run server.test
+## Run server.test
+
 To run the server.test start by opening two terminals.
 ```cd``` into the "js" directory on both terminals.
 Run ```npm start``` on one terminal, make sure that it
@@ -20,7 +23,7 @@ This will run the server.test file automatically, and
 quit after all tests are run. Make sure to quit the server
 program after all test finish by running ```CONTROL+C```.
 
-##Run GradeBot
+## Run GradeBot
 To run the GradeBot program start by downloading or 
 copying or forking the following grading repository
 "https://github.com/HD1050/CSCE3550".
