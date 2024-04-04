@@ -1,8 +1,6 @@
 # CSCE3550_JWKS_JL
 basic JWKS server: project3
 
-## CSCE 3550 jl1201
-
 Either download or copy or fork the repository to your system.
 Open one terminal and ```cd``` into the "js" file,
 then run ```npm install``` to download all necessary 
@@ -39,3 +37,5 @@ Because this is project three I will run
 This will run gradebot, after all test are run press any key to quit. 
 Finally, make sure to quit the server
 program after all test finish by running ```CONTROL+C```.
+=======
+basic JWKS server: project2
