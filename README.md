@@ -37,5 +37,3 @@ Because this is project three I will run
 This will run gradebot, after all test are run press any key to quit. 
 Finally, make sure to quit the server
 program after all test finish by running ```CONTROL+C```.
-=======
-basic JWKS server: project2
